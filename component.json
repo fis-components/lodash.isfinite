@@ -1,0 +1,10 @@
+{
+    "name": "lodash.isfinite",
+    "description": "The modern build of lodash’s `_.isFinite` as a module.",
+    "repos": "https://github.com/lodash/lodash.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "3.2.0"
+}
